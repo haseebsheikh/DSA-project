@@ -1,12 +1,6 @@
 # DSA-project
 Interpollation Search using recursion and filling(for INPUT and OUTPUT)
 
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
